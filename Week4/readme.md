@@ -1,1 +1,4 @@
-<iframe width="560" height="315" src="https://youtu.be/gl-d61Qhs0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video width="560" height="315" controls>
+  <source src="https://raw.githubusercontent.com/AdhambekYashnarbekov/CS413_Robotics-/main/Week4/2026-10-09%2020.08.51.mp4" type="video/mp4">
+  Your browser does not support embedded videos.
+</video>

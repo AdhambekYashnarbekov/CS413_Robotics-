@@ -1,0 +1,13 @@
+Battery voltage, noted by hand before and after each series (V)
+
+1. steps_M4.txt         left wheel (M4)    before 11.2   after 11.2
+2. steps_M4_repeat.txt  left wheel (M4)    before 11.2   after 11.2
+3. steps_M3.txt         right wheel (M3)   before 11.2   after 11.2
+4. square_M4.txt        left wheel (M4)    before 11.2   after 11.2
+5. square_M3.txt        right wheel (M3)   before 11.2   after 11.2
+6. chirp_M4.txt         left wheel (M4)    before 11.2   after 11.2
+7. chirp_M3.txt         right wheel (M3)   before 11.2   after 11.2
+8. deadzone_M4.txt      left wheel (M4)    before 11.2   after 11.2
+9. deadzone_M3.txt      right wheel (M3)   before 11.2   after 11.2
+
+The voltage stayed at 11.2 V during the whole lab.
